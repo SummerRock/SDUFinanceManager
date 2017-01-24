@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SDUFinanceManager</string>
+    <string name="action_version">About Version</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login">系统登录</string>
+    <string name="addoutaccount">新增支出</string>
+    <string name="addinaccount">新增收入</string>
+    <string name="outaccountinfo">我的支出</string>
+    <string name="inaccountinfo">我的收入</string>
+    <string name="showinfo">数据管理</string>
+    <string name="sysset">系统功能</string>
+    <string name="accountflag">收支备忘</string>
+    <string name="infomanage">收支管理</string>
+    <string name="flagmanage">备忘管理</string>
+    <string name="SetPassword">重置密码</string>
+    <string name="aboutversion">版本信息</string>
+    <string name="thankinfo">谢谢您的支持！</string>
+    <string name="versionintroduce">本应用只适用于山东大学学生内部使用，
+        部分图片及信息来源于互联网，如有侵权，请联系作者：952819799@qq.com</string>
+    <string name="sethandpassword">请先绘制九宫格密码</string>
+    <string name="inputpassword">请输入九宫格密码</string>
+    <string name="newnoteaddsucceed">〖新增便签〗数据添加成功！</string>
+    <string name="newdataaddsucceed">数据添加成功！</string>
+    <string name="addnoteplease">请输入便签！</string>
+    <string name="addincomesource">请输入来源：</string>
+    <string name="addremark">请输入备注：</string>
+    <string name="addfigure">请输入金额：</string>
+    <string name="addposition">请输入地点：</string>
+    <string name="correctdatasucceed">〖数据〗修改成功！</string>
+    <string name="deletedatasucceed">〖数据〗删除成功！</string>
+</resources>

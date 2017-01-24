@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Code\SDUFinanceManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="52be61f3b17aa3f4957f88c1b5d78b7bc470a12a">
+        <dex dex="D:\Code\SDUFinanceManager\app\build\intermediates\pre-dexed\debug\instant-run_f1e106b38b093be123b5e5bec7b375499b73df38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yanxia\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="D:\Code\SDUFinanceManager\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.2.1_894630fae023e37127a386ddb49addf716dc89d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\SDUFinanceManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a24c89f16cdb09b39e0152fcf196446adb953de">
+        <dex dex="D:\Code\SDUFinanceManager\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f83a4e8deff6b8ce8197dab072a12afcc25d2c81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Code\SDUFinanceManager\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_536d246b7a15f1b409fc7d007c6ace474e829d40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\Code\SDUFinanceManager\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_2cae82942b7aee34e56ea227d43458033cf2f19e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\SDUFinanceManager\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="D:\Code\SDUFinanceManager\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.2.1_7b89bc9f5a4591bfe603d0aed1f7309bcfcbeeef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\SDUFinanceManager\app\libs\achartengine-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b9f421d67b60253072003b2b8a1028b12cb916a">
+        <dex dex="D:\Code\SDUFinanceManager\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0_405e59b99eff622d4196539eed6a56bd81fe3c54.jar" />
+    </item>
+
+</items>
